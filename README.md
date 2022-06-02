@@ -34,7 +34,7 @@ __A De Novo Molecular Generation Method Using Latent Vector Based Generative Adv
 
 ...
 
-__Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules__ [[paper](https://arxiv.org/pdf/1610.02415.pdf), [code1](https://github.com/maxhodak/keras-molecules), [code2](https://github.com/aksub99/molecular-vae)] (Arxiv 2016, ACS Central Science 2018, 1810 citations)
+__Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules__ [[paper](https://arxiv.org/pdf/1610.02415.pdf), [code](https://github.com/maxhodak/keras-molecules), [code_Pytorch](https://github.com/aksub99/molecular-vae), [code_TF](https://github.com/aspuru-guzik-group/chemical_vae)] (Arxiv 2016, ACS Central Science 2018, 1810 citations)
 
 ...
 
